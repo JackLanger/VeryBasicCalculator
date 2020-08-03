@@ -1,0 +1,15 @@
+C:\Users\Nutzer\source\repos\JacksCalculator\JacksCalculator\bin\Debug\JacksCalculator.exe.config
+C:\Users\Nutzer\source\repos\JacksCalculator\JacksCalculator\bin\Debug\JacksCalculator.exe
+C:\Users\Nutzer\source\repos\JacksCalculator\JacksCalculator\bin\Debug\JacksCalculator.pdb
+C:\Users\Nutzer\source\repos\JacksCalculator\JacksCalculator\obj\Debug\JacksCalculator.csprojAssemblyReference.cache
+C:\Users\Nutzer\source\repos\JacksCalculator\JacksCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Nutzer\source\repos\JacksCalculator\JacksCalculator\obj\Debug\App.g.cs
+C:\Users\Nutzer\source\repos\JacksCalculator\JacksCalculator\obj\Debug\JacksCalculator_MarkupCompile.cache
+C:\Users\Nutzer\source\repos\JacksCalculator\JacksCalculator\obj\Debug\JacksCalculator_MarkupCompile.lref
+C:\Users\Nutzer\source\repos\JacksCalculator\JacksCalculator\obj\Debug\MainWindow.baml
+C:\Users\Nutzer\source\repos\JacksCalculator\JacksCalculator\obj\Debug\JacksCalculator.g.resources
+C:\Users\Nutzer\source\repos\JacksCalculator\JacksCalculator\obj\Debug\JacksCalculator.Properties.Resources.resources
+C:\Users\Nutzer\source\repos\JacksCalculator\JacksCalculator\obj\Debug\JacksCalculator.csproj.GenerateResource.cache
+C:\Users\Nutzer\source\repos\JacksCalculator\JacksCalculator\obj\Debug\JacksCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Nutzer\source\repos\JacksCalculator\JacksCalculator\obj\Debug\JacksCalculator.exe
+C:\Users\Nutzer\source\repos\JacksCalculator\JacksCalculator\obj\Debug\JacksCalculator.pdb
